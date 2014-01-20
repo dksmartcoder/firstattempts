@@ -1,4 +1,4 @@
 firstattempts
 =============
 
-Small teting applications for mobile devices
+Small testing applications for mobile devices
